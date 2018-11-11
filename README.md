@@ -1,4 +1,4 @@
-# Donald_Trump_Speech_Generation
+# Donald Trump Speech Generation
 NLG project for generating Donald Trump's speech
 
 ## Introduction
