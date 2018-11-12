@@ -5,9 +5,9 @@ NLG project for generating Donald Trump's speech
 This is a project for generating a pseudo- speech text by US President Donald Trump, using Natural Language Generation(NLG) technology. NLG is one of the fields of Natural Language Processing(NLP). 
 
 ## Data structure
-Training data is a txt. file which is a concatenated text of 100 speech transcripts of Donald Trump during his presidential election campaign. The training data contains 328394 words, and validation data contains 59472 words.
+Input data is a txt. file which is a concatenated transcripts of 64 speeches that Donald Trump delivered during his presidential election campaign in 2016. We split the data into the training data, which contains 328394 words, and validation data containing 59472 words.
 
 ## Model
-The model used in this project is a Long Short Term Memory(LSTM). LSTM is one of the Recurrent Neural Networks and it performs well for generating texts taking into account the contexts.
+The model used in this project is an Recurrent Neural Networks(RNN) with Long Short-Term Memory(LSTM) units. LSTM performs well for generating texts taking into account the contexts.
 
 ## Results
